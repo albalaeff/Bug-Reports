@@ -29,6 +29,6 @@ Functional
 Medium
 
 ## Attachments
-[View video](https://github.com/albalaeff/Bug-Reports/blob/731d95c08ca6bf09afc3947e4e7acf70498f96a3/Hilti_Bug.mp4)
-[View screenshot](https://github.com/albalaeff/Bug-Reports/blob/731d95c08ca6bf09afc3947e4e7acf70498f96a3/Hilti_screen.png)
-[View log](https://github.com/albalaeff/Bug-Reports/blob/731d95c08ca6bf09afc3947e4e7acf70498f96a3/www.hilti.sk-1787163651271.log)
+[View video](https://github.com/albalaeff/Bug-Reports/blob/731d95c08ca6bf09afc3947e4e7acf70498f96a3/Hilti_Bug.mp4) <br>
+[View screenshot](https://github.com/albalaeff/Bug-Reports/blob/731d95c08ca6bf09afc3947e4e7acf70498f96a3/Hilti_screen.png) <br>
+[View log](https://github.com/albalaeff/Bug-Reports/blob/731d95c08ca6bf09afc3947e4e7acf70498f96a3/www.hilti.sk-1787163651271.log) <br>
