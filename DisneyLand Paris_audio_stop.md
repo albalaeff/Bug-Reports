@@ -25,4 +25,4 @@ Functional
 ## Severity: 
 Medium
 
-[View screenshot 1](DisneyAudioBug.mp4)
+[View video](DisneyAudioBug.mp4)
