@@ -25,4 +25,4 @@ Functional
 ## Severity: 
 Medium
 
-[View video](DisneyAudioBug.mp4)
+[View video](https://github.com/albalaeff/Bug-Reports/blob/21745abf96f62770dad0ab77df1650d098fc96d6/DisneyAudioBug.mp4))
