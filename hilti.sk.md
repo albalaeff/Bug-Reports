@@ -1,7 +1,6 @@
-## [Android 16] Disneyland Paris app stops background audio when opened
+## [Windows 11] - Contradictory product availability status
 ## Device: 
-Xiaomi Redmi 15
-
+Desktop
 ## Steps to reproduce:
 1. Open https://www.hilti.sk/ <br>
 2. Click the search field<br>
