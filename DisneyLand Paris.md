@@ -22,5 +22,5 @@ Visual
 Low
 
 ## Attachments
-[View screenshot](https://github.com/albalaeff/Bug-Reports/blob/ab08d8e6ae2451d4aa30064bfdf4c3f70ed1eefa/DL_bug_report%20(1).jpg)
+[View screenshot](https://github.com/albalaeff/Bug-Reports/blob/ab08d8e6ae2451d4aa30064bfdf4c3f70ed1eefa/DL_bug_report%20(1).jpg)<br>
 [View screenshot2](https://github.com/albalaeff/Bug-Reports/blob/ab08d8e6ae2451d4aa30064bfdf4c3f70ed1eefa/DL_bug_report%20(1).jpg)
