@@ -1,4 +1,4 @@
-# [Android 16] Show descriptions are truncated and cannot be scrolled in Shows and Parades <br>
+# [Xiaomi Redmi 15][Android 16] Show descriptions are truncated and cannot be scrolled in Shows and Parades <br>
 Device: Xiaomi Redmi 15
 
 ## Steps to reproduce:
