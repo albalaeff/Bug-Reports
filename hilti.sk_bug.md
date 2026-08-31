@@ -14,7 +14,7 @@ Desktop
 10. In the pop-up window, click **Dostupnosť tovaru** (Product availability).
 
 ## Expected result:
-The product’s **Počet dostupných položiek** (Number of available items) is **0**, so neither Hilti Store Bratislava nor Hilti Store Košice should display **1 položka k dispozícii** (1 item available).<br>
+The product’s **Počet dostupných položiek** (Number of available items) is **0**, so neither Hilti Store Bratislava nor Hilti Store Košice should display **1 položka k dispozícii** (1 item available).
 If items are available for pickup at both stores, the product should be shown as available for store pickup and the user should be able to select a store.
 
 ## Actual result:
