@@ -2,10 +2,10 @@
 Device: Xiaomi Redmi 15
 
 ## Steps to reproduce:
-1.Open the Disneyland Paris application.<br>
-2.Navigate to Shows and Parades.<br>
-3.Open Indoor Stage Shows – Guaranteed Access.<br>
-4.Tap the circular “i” information icon next to a show title.<br>
+1.Open the **Disneyland Paris** application.<br>
+2.Navigate to **Shows and Parades**.<br>
+3.Open **Indoor Stage Shows – Guaranteed Access**.<br>
+4.Tap the circular **“i”** information icon next to a show title.<br>
 5.Scroll down inside the show information screen.<br>
 6.Repeat the same action for other available shows.<br>
 
