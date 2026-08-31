@@ -16,7 +16,7 @@ The radio stream should start playing after the user taps the **Play** button.
 The radio player remains stuck in a loading state indefinitely, and the radio stream does not start.
 
 ## Type: 
-Functional
+Performance
 
 ## Severity: 
 Medium-High
