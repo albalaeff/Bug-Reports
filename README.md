@@ -3,3 +3,4 @@ The main goal of this project is to demonstrate the quality of my bug reporting 
 
 The reports are divided into two sections: **mobile_bug_reports** and **desktop_bug_reports**.<br>
 The **images_videos_logs** branch is used just to store attachments, including images, videos, and log files.
+The bugs included in this project were approved by the relevant project stakeholders.
