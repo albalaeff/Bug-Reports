@@ -3,14 +3,14 @@ Device: Xiaomi Redmi 15
 
 ## Steps to reproduce:
 Preconditions: <br>
-1.The Disneyland Paris app is installed.<br>
+1.The **Disneyland Paris** app is installed.<br>
 2.Background audio is playing in another application.<br>
 
 Steps to reproduce:<br>
-1.Open a music or podcast application.<br>
+1.Open a **music** or **podcast application**.<br>
 2.Start playing any audio.<br>
 3.Leave the audio application while the audio continues playing in the background.<br>
-4.Launch the Disneyland Paris application.<br>
+4.Launch the **Disneyland Paris** application.<br>
 5.Wait until the home screen is displayed.<br>
 
 ## Expected result:
