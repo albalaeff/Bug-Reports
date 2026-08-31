@@ -1,4 +1,4 @@
-## [Android 16] Disneyland Paris app stops background audio when opened
+## [Xiaomi Redmi 15][Android 16] Disneyland Paris app stops background audio when opened
 Device: Xiaomi Redmi 15
 
 ## Steps to reproduce:
