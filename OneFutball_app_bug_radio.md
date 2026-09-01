@@ -24,4 +24,4 @@ Medium-High
 ## Attachments
 [View video](https://github.com/albalaeff/Bug-Reports/blob/0322ec608be5ff22f3913e71d67a03d5be384e10/bugRadio.mp4)<br>
 [View screenshot](https://github.com/albalaeff/Bug-Reports/blob/0322ec608be5ff22f3913e71d67a03d5be384e10/bugRad.jpg)<br>
-[View log](https://github.com/albalaeff/Bug-Reports/blob/0322ec608be5ff22f3913e71d67a03d5be384e10/log223.txt)
+[View log](https://github.com/albalaeff/Bug-Reports/blob/90e9bc8ccce768cec10a51f581213e46a1b274f6/onefootball-radio-new-log.txt)
